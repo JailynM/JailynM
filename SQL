@@ -81,4 +81,4 @@ FROM Proveedores;
 SELECT 
     Nombre
 	Cedula
-FROM Clientes;      
+FROM Clientes;
